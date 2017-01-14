@@ -1,5 +1,5 @@
 # TESSY
-A collection of side projects for playround around with Tessel Project.
+A collection of side projects for playing around with Tessel Project.
 
 ### References:
 [Tessel.io](https://tessel.io/)
