@@ -1,0 +1,19 @@
+{
+  "name": "router",
+  "version": "0.0.0",
+  "description": "Tessel based web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "An example of a tessel acting as a web server with LED controls",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.1",
+    "tiny-router": "^0.1.4"
+  }
+}
