@@ -12,5 +12,11 @@
   ],
   "license": "MIT",
   "readme": "Tessel Examples",
-  "dependencies": {}
+  "dependencies": {
+    "climate-si7020": "0.1.1",
+    "gps-a2235h": "0.3.0"
+  },
+  "devDependencies": {
+    "climate-si7020": "0.1.1"
+  }
 }
